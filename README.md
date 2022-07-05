@@ -1,2 +1,2 @@
 # Debugging
-Debugm Pendaftaran SMP 73 JAKARTA SELATAN
+Debugging Pendaftaran SMP 73 JAKARTA SELATAN
