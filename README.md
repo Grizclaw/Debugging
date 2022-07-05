@@ -19,3 +19,20 @@ Berhasil!, Tetapi pada **DATABASE** tanggal lahir tidak terupdate dikarenakan ti
 
 
 # Melakukan PERBAIKAN PROGRAM
+
+- Pada Source Code **EDIT.PHP** belum terdapat kolom tanggal lahir
+
+![image](https://user-images.githubusercontent.com/81188572/177375360-4468aa96-02b6-4546-a93a-0b14315afb4c.png)
+
+- Pada Source Code **EDIT.PHP** menambahkan kolom tanggal lahir
+
+![image](https://user-images.githubusercontent.com/81188572/177375533-5c21919a-b85e-4a86-b680-d0e6d7d5899d.png)
+
+- Percobaan edit/UPDATE kembali
+
+![image](https://user-images.githubusercontent.com/81188572/177375727-955ca4b6-4b67-4674-9229-54c6a01b4a2c.png)
+
+![image](https://user-images.githubusercontent.com/81188572/177375810-eecde84e-ab61-4ffe-8516-6e16e9a97882.png)
+
+Berhasil terupdate ke **DATABASE**!
+
